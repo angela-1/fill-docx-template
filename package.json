@@ -37,11 +37,11 @@
     "commit-msg": "node scripts/verifyCommit.js"
   },
   "dependencies": {
-    "@types/pizzip": "^3.0.1",
     "docxtemplater": "^3.19.5",
     "pizzip": "^3.0.6"
   },
   "devDependencies": {
+    "@types/pizzip": "^3.0.1",
     "@types/node": "^14.11.8",
     "chalk": "^4.1.0",
     "lint-staged": "^10.4.0",
